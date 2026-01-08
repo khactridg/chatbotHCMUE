@@ -1,0 +1,10 @@
+streamlit
+chromadb
+google-generativeai
+sentence-transformers
+html2text
+requests
+beautifulsoup4
+langchain-text-splitters
+PyMuPDF
+google-genai
