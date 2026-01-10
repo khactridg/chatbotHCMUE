@@ -53,7 +53,7 @@ st.markdown(
 # ======================
 @st.cache_resource
 def init_clients():
-    api_key = "AIzaSyB-wkluZvPVWl1K0LEL4_t0U-NVFRRBGt4"
+    api_key = "
     if not api_key:
         st.error("❌ Chưa cấu hình GEMINI_API_KEY")
         st.stop()
@@ -163,3 +163,4 @@ Nếu không có thông tin, hãy nói:
     st.session_state.messages.append(
         {"role": "assistant", "content": answer}
     )
+
