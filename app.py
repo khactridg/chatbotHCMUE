@@ -46,7 +46,7 @@ st.markdown(
     """
     <h2 style="text-align:center;">HCMUE CHATBOT AI</h2>
     <p style="text-align:center; color: gray;">
-    Để giúp tôi qua môn, bạn vui lòng đặt câu hỏi đầy đủ và chi tiết. Chúc một ngày vui!
+    Chatbot RAG hỗ trợ tư vấn thông tin tuyển sinh kỳ thi ĐGNL | Trường ĐH Sư Phạm TP. Hồ Chí Minh!
     </p>
     """,
     unsafe_allow_html=True
@@ -222,3 +222,4 @@ Nếu không có thông tin, hãy nói:
             "sources": sources
         }
     )
+
